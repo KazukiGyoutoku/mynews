@@ -1,6 +1,6 @@
-@extends('layouts.admin')
+@extends('layouts.profile')
  
- @section('title','Re:LieF~親愛なるあなたへ~')
+ @section('title','Re:LieF')
   
   @section('content')
   <div class ="container">
