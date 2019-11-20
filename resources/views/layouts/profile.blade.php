@@ -46,6 +46,8 @@
 
                         <!-- Right Side Of Navbar -->
                         <ul class="navbar-nav ml-auto">
+                            <li><a class="nav-link" href="{{ route('login') }}">{{ __('messages.Login') }}</a></li>
+                            <li><a class="nav-link" href="{{ route('logout') }}">{{ __('messages.Logout') }}</a></li>
                         </ul>
                     </div>
                 </div>
