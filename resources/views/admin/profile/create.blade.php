@@ -13,7 +13,7 @@
         </div>
         
         <div class="form-group row">
-           <label class ="col-md-2">名前</label>
+           <label class ="col-md-2">氏名</label>
         </div>
         <div class="col-md-10">
              <input type="text" class="form-control" style="width:150px;" name="name" value="{{ old('name') }}">
